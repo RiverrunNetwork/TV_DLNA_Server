@@ -1,6 +1,6 @@
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/obj/local/armeabi/objs/git-platinum/DMRCenter.o: \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/DMRCenter.cpp \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/DMRCenter.h \
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/obj/local/armeabi/objs/git-platinum/DMRCenter.o: \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/DMRCenter.cpp \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/DMRCenter.h \
  PlatinumKit/Platinum/Source/Core/PltUPnP.h \
  PlatinumKit/Platinum/Source/Core/PltTaskManager.h \
  PlatinumKit/Platinum/../Neptune/Source/Core/Neptune.h \
@@ -70,11 +70,11 @@
  PlatinumKit/Platinum/Source/Core/PltUtilities.h \
  PlatinumKit/Platinum/Source/Devices/MediaRenderer/PltMediaRenderer.h \
  PlatinumKit/Platinum/Source/Core/PltDeviceHost.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/Logs.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/IMediaActionReceiver.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/Logs.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/IMediaActionReceiver.h \
  PlatinumKit/Platinum/Source/Core/PltService.h
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/DMRCenter.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/DMRCenter.h:
 
 PlatinumKit/Platinum/Source/Core/PltUPnP.h:
 
@@ -214,8 +214,8 @@ PlatinumKit/Platinum/Source/Devices/MediaRenderer/PltMediaRenderer.h:
 
 PlatinumKit/Platinum/Source/Core/PltDeviceHost.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/Logs.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/Logs.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/IMediaActionReceiver.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/IMediaActionReceiver.h:
 
 PlatinumKit/Platinum/Source/Core/PltService.h:
