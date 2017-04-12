@@ -1,6 +1,6 @@
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/obj/local/armeabi/objs/git-platinum/PlatinumKit/Platinum/Source/Core/PltDeviceData.o: \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceData.cpp \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceData.h \
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/obj/local/armeabi/objs/git-platinum/PlatinumKit/Platinum/Source/Core/PltDeviceData.o: \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceData.cpp \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceData.h \
  PlatinumKit/Platinum/../Neptune/Source/Core/Neptune.h \
  PlatinumKit/Platinum/../Neptune/Source/Core/NptConfig.h \
  PlatinumKit/Platinum/../Neptune/Source/Core/NptCommon.h \
@@ -48,27 +48,27 @@
  PlatinumKit/Platinum/../Neptune/Source/Core/NptCrypto.h \
  PlatinumKit/Platinum/../Neptune/Source/Core/NptZip.h \
  PlatinumKit/Platinum/../Neptune/Source/Core/NptTls.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltConstants.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltService.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltEvent.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpClientTask.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttp.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltConstants.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltService.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltEvent.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpClientTask.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttp.h \
  PlatinumKit/Platinum/Source/Platinum/PltVersion.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltThreadTask.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltTaskManager.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltArgument.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltStateVariable.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltAction.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUPnP.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltCtrlPoint.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltSsdp.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServerTask.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDatagramStream.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServer.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceHost.h \
- /Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUtilities.h
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltThreadTask.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltTaskManager.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltArgument.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltStateVariable.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltAction.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUPnP.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltCtrlPoint.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltSsdp.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServerTask.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDatagramStream.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServer.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceHost.h \
+ /Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUtilities.h
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceData.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceData.h:
 
 PlatinumKit/Platinum/../Neptune/Source/Core/Neptune.h:
 
@@ -164,40 +164,40 @@ PlatinumKit/Platinum/../Neptune/Source/Core/NptZip.h:
 
 PlatinumKit/Platinum/../Neptune/Source/Core/NptTls.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltConstants.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltConstants.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltService.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltService.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltEvent.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltEvent.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpClientTask.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpClientTask.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttp.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttp.h:
 
 PlatinumKit/Platinum/Source/Platinum/PltVersion.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltThreadTask.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltThreadTask.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltTaskManager.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltTaskManager.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltArgument.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltArgument.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltStateVariable.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltStateVariable.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltAction.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltAction.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUPnP.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUPnP.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltCtrlPoint.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltCtrlPoint.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltSsdp.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltSsdp.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServerTask.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServerTask.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDatagramStream.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDatagramStream.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServer.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltHttpServer.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceHost.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltDeviceHost.h:
 
-/Users/brikerman/Desktop/Zuma-DLNA/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUtilities.h:
+/Users/brikerman/Desktop/TV_DLNA_Server/Zuma-DLNA/zuma/jni/PlatinumKit/Platinum/Source/Core/PltUtilities.h:

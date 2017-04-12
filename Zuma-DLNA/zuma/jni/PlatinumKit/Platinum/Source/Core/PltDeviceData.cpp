@@ -52,14 +52,13 @@ PLT_DeviceData::PLT_DeviceData(NPT_HttpUrl      description_url,
                                const char*      friendly_name,
                                const char*      showVR,
                                const char*      version) :
-    m_Manufacturer("Baofeng LLC"),
+    m_Manufacturer(version),
     m_ManufacturerURL("http://www.baofeng.tv"),
     m_UUID(uuid),
     m_URLDescription(description_url),
     m_DeviceType(device_type),
     m_FriendlyName(friendly_name),
     m_showVR(showVR),
-    m_version(version),
     m_BootId(0),
     m_NextBootId(0)
 {
@@ -396,7 +395,6 @@ PLT_DeviceData::GetDescription(NPT_XmlElementNode* root, NPT_XmlElementNode** de
     NPT_CHECK_SEVERE(PLT_XmlHelper::AddChildText(device, "deviceType", m_DeviceType));
     NPT_CHECK_SEVERE(PLT_XmlHelper::AddChildText(device, "friendlyName", m_FriendlyName));
     NPT_CHECK_SEVERE(PLT_XmlHelper::AddChildText(device, "showVR", m_showVR));
-    NPT_CHECK_SEVERE(PLT_XmlHelper::AddChildText(device, "version", m_version));
     NPT_CHECK_SEVERE(PLT_XmlHelper::AddChildText(device, "manufacturer", m_Manufacturer));
     NPT_CHECK_SEVERE(PLT_XmlHelper::AddChildText(device, "manufacturerURL", m_ManufacturerURL));
     NPT_CHECK_SEVERE(PLT_XmlHelper::AddChildText(device, "modelDescription", m_ModelDescription));

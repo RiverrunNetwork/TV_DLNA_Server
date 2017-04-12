@@ -173,7 +173,6 @@ public:
     NPT_String m_Manufacturer;
     NPT_String m_ManufacturerURL;
     NPT_String m_showVR;
-    NPT_String m_version;
     NPT_String m_ModelDescription;
     NPT_String m_ModelName;
     NPT_String m_ModelNumber;
